@@ -1,8 +1,5 @@
 programming
 hangman
-challenge
-computer
-software
 developer
 specialist
 island
