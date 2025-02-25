@@ -5,3 +5,5 @@ specialist
 island
 paradise
 spelunking
+spontaneous
+adventure
