@@ -7,3 +7,5 @@ paradise
 spelunking
 spontaneous
 adventure
+tantalizing 
+methodical
