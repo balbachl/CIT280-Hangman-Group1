@@ -30,7 +30,7 @@ class Program
             Console.ForegroundColor= ConsoleColor.DarkRed;
             DrawHangman(attempts);
             Console.BackgroundColor = ConsoleColor.Black;
-            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.ForegroundColor = ConsoleColor.Cyan;
             DisplayWord(wordToGuess, guessedLetters);
             Console.WriteLine($"Attempts remaining: {attempts}");
             Console.Write("Guess a letter: ");
